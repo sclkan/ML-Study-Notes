@@ -7,6 +7,7 @@ In this section, I will include personal study notes/materials for Udacity's bas
 ## Exercise
 - Create a spam classifier by using Naive Bayes algorithms with bagging, random forests and boosting: [codes](https://github.com/sclkan/ML-Study-Notes/blob/master/Spam_Classifier_Naive_Bayes.ipynb)
 - Evaluate regression models: [codes](https://github.com/sclkan/ML-Study-Notes/blob/master/Boston_Housing_Regression.ipynb)
+- Use grid search to optimize model parameters: [code](https://github.com/sclkan/ML-Study-Notes/blob/master/Diabetes_Case_Study.ipynb) (in progress)
 
 ## Source
 [Udacity](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230)
