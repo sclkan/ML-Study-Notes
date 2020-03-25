@@ -3,6 +3,7 @@ In this section, I will include personal study notes/materials for Udacity's bas
 
 ## Notes
 - [Supervised learning](https://github.com/sclkan/ML-Study-Notes/blob/master/supervised_learning_notes.ipynb)
+- [Unsupervised learning](https://github.com/sclkan/ML-Study-Notes/blob/master/unsupervised_learning_notes.ipynb)
 
 ## Exercise
 - Create a spam classifier by using Naive Bayes algorithms with bagging, random forests and boosting: [codes](https://github.com/sclkan/ML-Study-Notes/blob/master/Spam_Classifier_Naive_Bayes.ipynb)
@@ -13,4 +14,4 @@ In this section, I will include personal study notes/materials for Udacity's bas
 [Udacity](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230)
 
 ## Python Libraries
-Scikit-learn, Pandas, Numpy
+Scikit-learn, Pandas, Numpy, Matplotlib
