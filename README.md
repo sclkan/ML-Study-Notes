@@ -4,6 +4,7 @@ In this section, I will include personal study notes/materials for Udacity's bas
 ## Notes
 - [Supervised learning](https://github.com/sclkan/ML-Study-Notes/blob/master/supervised_learning_notes.ipynb)
 - [Unsupervised learning](https://github.com/sclkan/ML-Study-Notes/blob/master/unsupervised_learning_notes.ipynb)
+- [Deep learning](https://github.com/sclkan/ML-Study-Notes/blob/master/deep_learning_notes.ipynb)
 
 ## Exercise
 - Create a spam classifier by using Naive Bayes algorithms with bagging, random forests and boosting: [codes](https://github.com/sclkan/ML-Study-Notes/blob/master/Spam_Classifier_Naive_Bayes.ipynb)
