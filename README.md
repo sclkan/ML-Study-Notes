@@ -11,6 +11,7 @@ In this section, I will include personal study notes/materials for Udacity's bas
 - Evaluate regression models: [codes](https://github.com/sclkan/ML-Study-Notes/blob/master/Boston_Housing_Regression.ipynb)
 - Use grid search to optimize model parameters: [codes](https://github.com/sclkan/ML-Study-Notes/blob/master/Diabetes_Case_Study.ipynb)
 - PCA workbooks: [1](https://github.com/sclkan/ML-Study-Notes/blob/master/PCA_1.ipynb), [2](https://github.com/sclkan/ML-Study-Notes/blob/master/PCA_Mini_Project.ipynb)
+- Backpropagate error in a 2 layer neural network: [codes](https://github.com/sclkan/ML-Study-Notes/blob/master/StudentAdmissions.ipynb)
 
 ## Source
 [Udacity](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230)
